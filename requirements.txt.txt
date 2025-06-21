@@ -3,3 +3,4 @@ pandas
 selenium
 openpyxl
 lxml
+chromedriver-autoinstaller
